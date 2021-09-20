@@ -1,0 +1,12 @@
+C:\Users\OGUZHAN\source\repos\FibonacciThread\FibonacciThread\bin\Debug\netcoreapp3.1\FibonacciThread.exe
+C:\Users\OGUZHAN\source\repos\FibonacciThread\FibonacciThread\bin\Debug\netcoreapp3.1\FibonacciThread.deps.json
+C:\Users\OGUZHAN\source\repos\FibonacciThread\FibonacciThread\bin\Debug\netcoreapp3.1\FibonacciThread.runtimeconfig.json
+C:\Users\OGUZHAN\source\repos\FibonacciThread\FibonacciThread\bin\Debug\netcoreapp3.1\FibonacciThread.runtimeconfig.dev.json
+C:\Users\OGUZHAN\source\repos\FibonacciThread\FibonacciThread\bin\Debug\netcoreapp3.1\FibonacciThread.dll
+C:\Users\OGUZHAN\source\repos\FibonacciThread\FibonacciThread\bin\Debug\netcoreapp3.1\FibonacciThread.pdb
+C:\Users\OGUZHAN\source\repos\FibonacciThread\FibonacciThread\obj\Debug\netcoreapp3.1\FibonacciThread.AssemblyInfoInputs.cache
+C:\Users\OGUZHAN\source\repos\FibonacciThread\FibonacciThread\obj\Debug\netcoreapp3.1\FibonacciThread.AssemblyInfo.cs
+C:\Users\OGUZHAN\source\repos\FibonacciThread\FibonacciThread\obj\Debug\netcoreapp3.1\FibonacciThread.csproj.CoreCompileInputs.cache
+C:\Users\OGUZHAN\source\repos\FibonacciThread\FibonacciThread\obj\Debug\netcoreapp3.1\FibonacciThread.dll
+C:\Users\OGUZHAN\source\repos\FibonacciThread\FibonacciThread\obj\Debug\netcoreapp3.1\FibonacciThread.pdb
+C:\Users\OGUZHAN\source\repos\FibonacciThread\FibonacciThread\obj\Debug\netcoreapp3.1\FibonacciThread.genruntimeconfig.cache
